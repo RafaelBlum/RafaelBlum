@@ -12,14 +12,13 @@
 
 > **Programação** é um prazer, é uma arte e minhas habilidades que me fazer superar desafios e me motivar sempre com disciplina e responsabilidade.
 
-
-## Meus portfólios
-
-
-
-
 Contatos 👇🏼
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/rafablum/videos)](https://www.youtube.com/user/rafablum/videos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-blum-237133114s/)](https://www.linkedin.com/in/rafael-blum-237133114s/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafablum_/)](https://www.instagram.com/rafablum_/)
+
+
+Vejam meus trabalhos 👇🏼
+
+**Intranet corporativa e social CORPORATIX**. Um sistema de intranet de acesso interno para empresas que querem maior informação e comunicação interna [Corporatix](https://corporatix.com.br/).
