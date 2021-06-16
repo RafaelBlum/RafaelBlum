@@ -1,13 +1,20 @@
 <h1 align="center">Olá, seja bem-vindo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Rafael Blum</h1>
 <h3 align="center">Sou desenvolvedor web back-end e front-end</h3>
 
-## Minhas habilidaes
+### Minhas habilidaes
 
--**Back-End**: Java, JPA, SpringMCV, Hibernate, Php, Laravel, React.
--**Front-End**: javaScript, BootsTrap, jQuery, PrimeFaces, Livewire.
--**Outros**: Sql, CSS, Html, Photoshop, SonyVegas PRO.
-- Pós graduação PUC MINAS, desenv. Web FullStack.
-- Graduação Universidade La Salle, desenv. de sistemas para web com Java.
+**Back-End** 
+  - Php, framework Laravel com Livewire e Java, JPA, SpringMCV, Hibernate, javascript
+  - Sql, Hql e Mysql
+  - Conhecimentp básico em NodeJS, React
+**Front-End**
+  - BootsTrap 4.4, jQuery, PrimeFaces, Livewire.
+**Outros**
+    - Photoshop, SonyVegas PRO.
+
+### Qualificações
+- 2021 - Pós graduação PUC MINAS, **Especialização em Desenvolvimento Web Full Stack**. (Front End React, React Native, criação de APIs robustas baseadas em Web Services RESTful, práticas da Engenharia de Software, método de desenvolvimento ágil, cultura DevOps de agilidade e estratégias de Marketing Digital)
+- 2018 - Graduação Universidade La Salle, desenvolvimento de sistemas para web com Java e engenharia de software.
 
 
 > **Programação** é um prazer, é uma arte e minhas habilidades que me fazer superar desafios e me motivar sempre com disciplina e responsabilidade.
