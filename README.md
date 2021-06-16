@@ -9,7 +9,7 @@
   - Conhecimentp básico em NodeJS, React
 
 **Front-End**
-  - BootsTrap 4.4, jQuery, PrimeFaces, Livewire.
+  - Bootstrap 4.4, jQuery, PrimeFaces, Livewire.
  
 **Outros**
     - Photoshop, SonyVegas PRO.
