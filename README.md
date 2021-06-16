@@ -18,9 +18,6 @@
 - 2021 - Pós graduação PUC MINAS, **Especialização em Desenvolvimento Web Full Stack**. (Front End React, React Native, criação de APIs robustas baseadas em Web Services RESTful, práticas da Engenharia de Software, método de desenvolvimento ágil, cultura DevOps de agilidade e estratégias de Marketing Digital)
 - 2018 - Graduação Universidade La Salle, **desenvolvimento de sistemas para internet** com Java e engenharia de software.
 
-
-> **Programação** é um prazer, é uma arte e minhas habilidades que me fazer superar desafios e me motivar sempre com disciplina e responsabilidade.
-
 Contatos 👇🏼
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/rafablum/videos)](https://www.youtube.com/user/rafablum/videos)
