@@ -7,14 +7,16 @@
   - Php, framework Laravel com Livewire e Java, JPA, SpringMCV, Hibernate, javascript
   - Sql, Hql e Mysql
   - Conhecimentp básico em NodeJS, React
+
 **Front-End**
   - BootsTrap 4.4, jQuery, PrimeFaces, Livewire.
+ 
 **Outros**
     - Photoshop, SonyVegas PRO.
 
 ### Qualificações
 - 2021 - Pós graduação PUC MINAS, **Especialização em Desenvolvimento Web Full Stack**. (Front End React, React Native, criação de APIs robustas baseadas em Web Services RESTful, práticas da Engenharia de Software, método de desenvolvimento ágil, cultura DevOps de agilidade e estratégias de Marketing Digital)
-- 2018 - Graduação Universidade La Salle, desenvolvimento de sistemas para web com Java e engenharia de software.
+- 2018 - Graduação Universidade La Salle, **desenvolvimento de sistemas para internet** com Java e engenharia de software.
 
 
 > **Programação** é um prazer, é uma arte e minhas habilidades que me fazer superar desafios e me motivar sempre com disciplina e responsabilidade.
@@ -28,4 +30,4 @@ Contatos 👇🏼
 
 Sistemas no ar 👇🏼
 
-**Intranet corporativa e social CORPORATIX**. Um sistema de intranet de acesso interno para empresas que querem maior informação e comunicação interna [Corporatix](https://corporatix.com.br/).
+**Intranet corporativa e social CORPORATIX**. Um sistema de intranet de acesso interno para empresas que querem maior informação e comunicação interna [Corporatix](https://corporatix.com.br/). Veja meus mais abaixo.👇🏼
