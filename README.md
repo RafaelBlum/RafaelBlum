@@ -19,6 +19,6 @@ Contatos 👇🏼
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafablum_/)](https://www.instagram.com/rafablum_/)
 
 
-Vejam meus trabalhos 👇🏼
+Sistemas no ar 👇🏼
 
 **Intranet corporativa e social CORPORATIX**. Um sistema de intranet de acesso interno para empresas que querem maior informação e comunicação interna [Corporatix](https://corporatix.com.br/).
