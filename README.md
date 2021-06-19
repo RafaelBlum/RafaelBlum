@@ -4,7 +4,8 @@
 ### Minhas habilidades
 
 **Back-End** 
-  - Php, framework Laravel com Livewire e Java, JPA, SpringMCV, Hibernate, javascript
+  - Php, framework Laravel com Livewire
+  - Java, JPA, SpringMCV, Hibernate, javascript
   - Sql, Hql e Mysql
   - Conhecimentp básico em NodeJS, React
 
@@ -15,8 +16,8 @@
     - Photoshop, SonyVegas PRO.
 
 ### Qualificações
-- 2021 - Pós graduação PUC MINAS, **Especialização em Desenvolvimento Web Full Stack**. (Front End React, React Native, criação de APIs robustas baseadas em Web Services RESTful, práticas da Engenharia de Software, método de desenvolvimento ágil, cultura DevOps de agilidade e estratégias de Marketing Digital)
-- 2018 - Graduação Universidade La Salle, **desenvolvimento de sistemas para internet** com Java e engenharia de software.
+- Pós graduação PUC MINAS, **Especialização em Desenvolvimento Web Full Stack**. (Front End React, React Native, criação de APIs robustas baseadas em Web Services RESTful, práticas da Engenharia de Software, método de desenvolvimento ágil, cultura DevOps de agilidade e estratégias de Marketing Digital)
+- Graduação Universidade La Salle, **desenvolvimento de sistemas para internet** com Java e engenharia de software.
 
 Contatos 👇🏼
 
