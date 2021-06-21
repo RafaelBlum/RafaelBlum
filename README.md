@@ -19,7 +19,7 @@
 - Pós graduação PUC MINAS, **Especialização em Desenvolvimento Web Full Stack**. (Front End React, React Native, criação de APIs robustas baseadas em Web Services RESTful, práticas da Engenharia de Software, método de desenvolvimento ágil, cultura DevOps de agilidade e estratégias de Marketing Digital)
 - Graduação Universidade La Salle, **desenvolvimento de sistemas para internet** com Java e engenharia de software.
 
-Contatos 👇🏼
+Contatos 👇🏼 [rafaelblum_digital@hotmail.com]
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/rafablum/videos)](https://www.youtube.com/user/rafablum/videos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-blum-237133114s/)](https://www.linkedin.com/in/rafael-blum-237133114s/)
