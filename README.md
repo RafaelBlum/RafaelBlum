@@ -20,7 +20,8 @@
 **Conhecimento basico**
   - Java, JPA, SpringMCV, Hibernate, PrimeFaces
   - Sql, Hql e 
-  - Conhecimentp básico em NodeJS, React
+  - NodeJS 
+  - React
  
 **Outros**
     - Photoshop, SonyVegas PRO.
