@@ -1,5 +1,5 @@
 <h1 align="center">Olá, seja bem-vindo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Rafael Blum</h1>
-<h3 align="center">Sou desenvolvedor web back-end e front-end</h3>
+<h3 align="center">Sou desenvolvedor web back-end</h3>
 
 ### Minhas habilidades
 
