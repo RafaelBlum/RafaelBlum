@@ -3,14 +3,24 @@
 
 ### Minhas habilidades
 
-**Back-End** 
-  - Php, framework Laravel com Livewire
-  - Java, JPA, SpringMCV, Hibernate, javascript
-  - Sql, Hql e Mysql
-  - Conhecimentp básico em NodeJS, React
+  **Desenvolvimento back-end com Php** 
+  - Manipulação e Tratamento
+  - Orientado a Objetos
+  - Banco de Dados com PDO
+  - Mysql
+  - Segurança e Boas Práticas
+  - Javascript
+
+  **Framework Laravel**
+  -  Livewire
 
 **Front-End**
   - Bootstrap 4.4, jQuery, PrimeFaces, Livewire.
+
+**Conhecimento basico**
+  - Java, JPA, SpringMCV, Hibernate, PrimeFaces
+  - Sql, Hql e 
+  - Conhecimentp básico em NodeJS, React
  
 **Outros**
     - Photoshop, SonyVegas PRO.
@@ -26,6 +36,8 @@ Contatos 👇🏼 [rafaelblum_digital@hotmail.com]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafablum_/)](https://www.instagram.com/rafablum_/)
 
 
-Sistemas no ar 👇🏼
+Sistemas desenvolvidos ou em desenvolvimento 👇🏼
 
-**Intranet corporativa e social CORPORATIX**. Um sistema de intranet de acesso interno para empresas que querem maior informação e comunicação interna [Corporatix](https://corporatix.com.br/). Veja meus mais abaixo.👇🏼
+**Intranet corporativa e social CORPORATIX**. [Finalizado v.1] Um sistema de intranet de acesso interno para empresas que querem maior informação e comunicação interna [Corporatix.com.br](https://corporatix.com.br/).
+
+**Docitos**. [em desenvolvimento] Um site responsivo e intuitivo para empresas que querem mostrar seus produtos e serviços e um blog interno [Docitos.online](http://docitos.online/). 
