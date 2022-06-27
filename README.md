@@ -41,7 +41,7 @@ Contatos 👇🏼 [rafaelblum_digital@hotmail.com]
 Sistemas desenvolvidos ou em desenvolvimento 👇🏼
 
 **Intranet corporativa e social CORPORATIX**. [Finalizado v.1] Um sistema de intranet de acesso interno para empresas que querem maior informação e comunicação interna [Corporatix.com.br](https://corporatix.com.br/).
-> **Assista a demo** no link abaixo 👇🏼 [here](https://www.youtube.com/watch?v=R8SYSqY7nAM&t=39s&ab_channel=universocode).
+> **Assista a demo** no link 👇🏼 [here](https://www.youtube.com/watch?v=R8SYSqY7nAM&t=39s&ab_channel=universocode).
 
 
 **Docitos**. [em desenvolvimento] Um site responsivo e intuitivo para empresas que querem mostrar seus produtos e serviços e um blog interno [Docitos.online](http://docitos.online/). 
