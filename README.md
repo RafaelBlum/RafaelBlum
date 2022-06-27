@@ -11,8 +11,7 @@
   - Segurança e Boas Práticas
   - Javascript
 
-  **Framework Laravel**
-  -  Livewire
+  **Framework Laravel 8**
 
 **Front-End**
   - Bootstrap 4.4, jQuery, PrimeFaces, Livewire.
@@ -27,6 +26,8 @@
     - Photoshop, SonyVegas PRO.
 
 ### Qualificações
+- Cursando tecnologia em Análise e Desenvolvimento de Sistemas, **UNINTER**.
+
 - Pós graduação PUC MINAS, **Especialização em Desenvolvimento Web Full Stack**. (Front End React, React Native, criação de APIs robustas baseadas em Web Services RESTful, práticas da Engenharia de Software, método de desenvolvimento ágil, cultura DevOps de agilidade e estratégias de Marketing Digital)
 - Graduação Universidade La Salle, **desenvolvimento de sistemas para internet** com Java e engenharia de software.
 
