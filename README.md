@@ -25,9 +25,7 @@
 **Desenvolvendo maior conhecimento Front-End**
   - Bootstrap, jQuery, Html, CSS.
 
-**Conhecimento de engenharia de software**
-  - Analise de dados
-  - Diagrama de classe - (StarUL)
+**Conhecimento basico de controle de versão GIThUB**
 
 **Conhecimento basico**
   - Java, JPA, SpringMCV, Hibernate, PrimeFaces
