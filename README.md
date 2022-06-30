@@ -9,18 +9,32 @@
   - Banco de Dados com PDO
   - Mysql
   - Segurança e Boas Práticas
-  - Javascript
 
   **Framework Laravel 8**
+  - View blade
+  - routes
+  - Controllers
+  - Models
+  - Configurações de banco mysql/ENV
+  - Seeders
+  - Factories
+  - CRUD e configurações basicas
+  
+**Desenvolvendo maior conhecimento Javascript**
 
-**Front-End**
-  - Bootstrap 4.4, jQuery, PrimeFaces, Livewire.
+**Desenvolvendo maior conhecimento Front-End**
+  - Bootstrap, jQuery, Html, CSS.
+
+**Conhecimento de engenharia de software**
+  - Analise de dados
+  - Diagrama de classe - (StarUL)
 
 **Conhecimento basico**
   - Java, JPA, SpringMCV, Hibernate, PrimeFaces
   - Sql, Hql e 
   - NodeJS 
   - React
+  - Livewire
  
 **Outros**
     - Photoshop, SonyVegas PRO.
