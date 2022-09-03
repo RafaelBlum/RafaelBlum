@@ -56,4 +56,4 @@ Sistemas desenvolvidos ou em desenvolvimento 👇🏼
 > **Assista a demo** no link 👇🏼 [here](https://www.youtube.com/watch?v=R8SYSqY7nAM&t=39s&ab_channel=universocode).
 
 
-**Docitos**. [em desenvolvimento] Um site responsivo e intuitivo para empresas que querem mostrar seus produtos e serviços e um blog interno [Docitos.online](http://docitos.online/). 
+**Cardapio Digital**. [em desenvolvimento] Um site responsivo e intuitivo para empresas que querem mostrar seus produtos e serviços e um blog interno [cardapio-digital.online](http://cardapio-digital.online/). 
