@@ -4,14 +4,14 @@
 
 ### Minhas habilidades
 
-  **Desenvolvimento `back-end com Php`** 
+  **Desenvolvimento `back-end Php`**  <img align='left' src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/php.gif" width="20">
   - Manipulação e Tratamento
   - Orientado a Objetos
   - PDO
   - Mysql
   - Segurança e Boas Práticas
 
-  **Framework `Laravel 8`**
+  **Framework `Laravel 8`**  <img align='left' src="https://media4.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="20">
   - View blade
   - routes
   - Controllers
