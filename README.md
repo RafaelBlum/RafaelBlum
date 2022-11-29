@@ -42,6 +42,9 @@
 **Outros**
     - Photoshop, SonyVegas PRO.
 
+<br/>
+
+
 ### Qualificações
 
 - Cursando tecnologia em `Análise e Desenvolvimento de Sistemas`, **UNINTER**.
@@ -51,15 +54,6 @@
 - Graduação Universidade La Salle, `desenvolvimento de sistemas para internet` com Java e engenharia de software.
 
 <br/>
-
-### Contatos
-
-Contatos 👇🏼 [rafaelblum_digital@hotmail.com]
-
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMvtn8HZ12Ud-sdkY5KzTog)](https://www.youtube.com/channel/UCMvtn8HZ12Ud-sdkY5KzTog)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-blum-237133114s/)](https://www.linkedin.com/in/rafael-blum-237133114s/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafablum_/)](https://www.instagram.com/rafablum_/)
-
 
 ### Sistemas desenvolvidos ou em desenvolvimento
 
@@ -71,5 +65,18 @@ Contatos 👇🏼 [rafaelblum_digital@hotmail.com]
 
 `Blog Laravel` [em desenvolvimento] Desenvolvendo um blog com CRUD básico e login de acesso. [`bloglaravel.online`](http://bloglaravel.online/). 
 
+<br/>
+
+### Contatos
+
+Contatos 👇🏼 [rafaelblum_digital@hotmail.com]
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMvtn8HZ12Ud-sdkY5KzTog)](https://www.youtube.com/channel/UCMvtn8HZ12Ud-sdkY5KzTog)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-blum-237133114s/)](https://www.linkedin.com/in/rafael-blum-237133114s/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafablum_/)](https://www.instagram.com/rafablum_/)
+
+<br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Adoro me conectar com pessoas diferentes,</b> então se você quiser dizer <b>oi, ficarei feliz em conhecê-lo mais!</b> :)</em>
+
+
