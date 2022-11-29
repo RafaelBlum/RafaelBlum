@@ -1,16 +1,16 @@
 <h1 align="center">Olá, seja bem-vindo, eu sou Rafael Blum</h1>
-<h3 align="center">Sou desenvolvedor web back-end</h3>
+<h3 align="center">Sou desenvolvedor web back-end PHP</h3>
 
 ### Minhas habilidades
 
-  **Desenvolvimento back-end com Php** 
+  **Desenvolvimento `back-end com Php`** 
   - Manipulação e Tratamento
   - Orientado a Objetos
-  - Banco de Dados com PDO
+  - PDO
   - Mysql
   - Segurança e Boas Práticas
 
-  **Framework Laravel 8**
+  **Framework `Laravel 8`**
   - View blade
   - routes
   - Controllers
@@ -20,12 +20,16 @@
   - Factories
   - CRUD e configurações basicas
   
-**Desenvolvendo maior conhecimento Javascript**
+**Desenvolvendo maior conhecimento com Javascript**
 
-**Desenvolvendo maior conhecimento Front-End**
+**Desenvolvendo maior conhecimento em Front-End**
   - Bootstrap, jQuery, Html, CSS.
 
-**Conhecimento basico de controle de versão GIThUB**
+**Conhecimento de controle de versão com Git e GitHub**
+    - Config Git, commits, log, reflog, add, status, push
+    - Config Github, repositor, ssh key
+    - branch, checkout branchs, pull, merge
+    - projetinho descritivo [`demo git e github`](https://github.com/RafaelBlum/demo-git-github)
 
 **Conhecimento basico**
   - Java, JPA, SpringMCV, Hibernate, PrimeFaces
