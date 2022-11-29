@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja bem-vindo, eu sou Rafael Blum </h1><img align='left' src="https://media4.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"> 
+<h1 align="center">Olá, seja bem-vindo, eu sou Rafael Blum </h1><img align='center' src="https://media4.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50"> 
 <h3 align="center">Sou desenvolvedor web back-end PHP</h3>
 
 
