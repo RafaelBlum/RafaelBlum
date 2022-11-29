@@ -1,6 +1,7 @@
 <h1 align="center">Olá, seja bem-vindo, eu sou Rafael Blum</h1>
 <h3 align="center">Sou desenvolvedor web back-end PHP</h3>
 
+
 ### Minhas habilidades
 
   **Desenvolvimento `back-end com Php`** 
@@ -61,3 +62,6 @@ Sistemas desenvolvidos ou em desenvolvimento 👇🏼
 
 
 **Cardapio Digital**. [em desenvolvimento] Um site responsivo e intuitivo para empresas que querem mostrar seus produtos e serviços e um blog interno [cardapio-digital.online](http://cardapio-digital.online/). 
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Adoro me conectar com pessoas diferentes,</b> então se você quiser dizer <b>oi, ficarei feliz em conhecê-lo mais!</b> :)</em>
