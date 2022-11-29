@@ -21,11 +21,11 @@
   - Factories
   - CRUD e configurações basicas
   
-  **Conhecimento de controle de versão com Git e GitHub** <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="20">
-    - Config Git, commits, log, reflog, add, status, push
-    - Config Github, repositor, ssh key
-    - branch, checkout branchs, pull, merge
-    - projetinho descritivo [`demo git e github`](https://github.com/RafaelBlum/demo-git-github)
+  **Controle de versão com Git e GitHub** <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="20">
+  - Config Git, commits, log, reflog, add, status, push
+  - Config Github, repositor, ssh key
+  - branch, checkout branchs, pull, merge
+  - projetinho descritivo [`demo git e github`](https://github.com/RafaelBlum/demo-git-github)
   
 **Desenvolvendo maior conhecimento com Javascript**
 
