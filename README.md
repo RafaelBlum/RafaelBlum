@@ -26,7 +26,7 @@
 **Desenvolvendo maior conhecimento em Front-End**
   - Bootstrap, jQuery, Html, CSS.
 
-**Conhecimento de controle de versão com Git e GitHub**
+**Conhecimento de controle de versão com Git e GitHub** <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="30">
   - Config Git, commits, log, reflog, add, status, push
   - Config Github, repositor, ssh key
   - branch, checkout branchs, pull, merge
