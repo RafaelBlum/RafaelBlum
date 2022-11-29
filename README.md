@@ -1,17 +1,17 @@
-<h1 align="center">Olá, seja bem-vindo, eu sou Rafael Blum</h1>
+<h1 align="center">Olá, seja bem-vindo, eu sou Rafael Blum</h1> <img align='left' src="https://media4.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="50">
 <h3 align="center">Sou desenvolvedor web back-end PHP</h3>
 
 
 ### Minhas habilidades
 
-  **Desenvolvimento `back-end Php`**  <img align='left' src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/php.gif" width="20">
+  **Desenvolvimento `back-end Php`**  <img align='left' src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/php.gif" width="40">
   - Manipulação e Tratamento
   - Orientado a Objetos
   - PDO
   - Mysql
   - Segurança e Boas Práticas
 
-  **Framework `Laravel 8`**  <img align='left' src="https://media4.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="20">
+  **Framework `Laravel 8`**  <img align='left' src="https://miro.medium.com/max/640/1*vd9ysABqEQIsk_JSjh3iWw.gif" width="40">
   - View blade
   - routes
   - Controllers
