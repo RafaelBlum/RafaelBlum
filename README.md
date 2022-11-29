@@ -26,10 +26,10 @@
   - Bootstrap, jQuery, Html, CSS.
 
 **Conhecimento de controle de versão com Git e GitHub**
-    - Config Git, commits, log, reflog, add, status, push
-    - Config Github, repositor, ssh key
-    - branch, checkout branchs, pull, merge
-    - projetinho descritivo [`demo git e github`](https://github.com/RafaelBlum/demo-git-github)
+  - Config Git, commits, log, reflog, add, status, push
+  - Config Github, repositor, ssh key
+  - branch, checkout branchs, pull, merge
+  - projetinho descritivo [`demo git e github`](https://github.com/RafaelBlum/demo-git-github)
 
 **Conhecimento basico**
   - Java, JPA, SpringMCV, Hibernate, PrimeFaces
