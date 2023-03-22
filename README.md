@@ -11,7 +11,7 @@
   - Mysql
   - Segurança e Boas Práticas
 
-  **Framework `Laravel 8`**
+  **Framework `Laravel 9`**
   - View blade
   - routes
   - Controllers
@@ -20,6 +20,7 @@
   - Seeders
   - Factories
   - CRUD e configurações basicas
+  - Testes com PHPunit e PEST
   
   **Controle de versão com Git e GitHub** <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="20">
   - Config Git, commits, log, reflog, add, status, push
