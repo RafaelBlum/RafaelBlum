@@ -5,11 +5,11 @@
 ### Minhas habilidades
 
   **Desenvolvimento `back-end Php`**  <img align='left' src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/php.gif" width="40">
-  :white_check_mark: Manipulação e Tratamento
-  :white_check_mark: Orientado a Objetos
-  :white_check_mark: PDO
-  :white_check_mark: Mysql
-  :white_check_mark: Segurança e Boas Práticas
+  - :white_check_mark: Manipulação e Tratamento
+  - :white_check_mark: Orientado a Objetos
+  - :white_check_mark: PDO
+  - :white_check_mark: Mysql
+  - :white_check_mark: Segurança e Boas Práticas
 
   **Framework `Laravel`**
   - View blade
