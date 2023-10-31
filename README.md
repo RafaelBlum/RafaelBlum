@@ -5,11 +5,11 @@
 ### Minhas habilidades
 
   **Desenvolvimento `back-end Php`**  <img align='left' src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/php.gif" width="40">
-  - 🧩 Manipulação e Tratamento
-  - 🧩 Orientado a Objetos
-  - 🧩 PDO
-  - 🧩 Mysql
-  - 🧩 Segurança e Boas Práticas
+  - 🔓 Manipulação e Tratamento
+  - 🔓 Orientado a Objetos
+  - 🔓 PDO
+  - 🔓 Mysql
+  - 🔓 Segurança e Boas Práticas
 
   **Framework `Laravel`**
   - View blade
