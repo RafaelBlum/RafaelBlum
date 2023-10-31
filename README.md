@@ -10,7 +10,7 @@
   - 🔓 PDO
   - 🔓 Mysql
   - 🔓 Segurança e Boas Práticas
-> Projetos: [`Repositório`](https://github.com/RafaelBlum/livewire-laravel) 
+
 
   **Framework `Laravel`**
   - View blade
@@ -22,8 +22,8 @@
   - Factories
   - CRUD e configurações basicas
   - Testes com PHPunit e PEST
-  - desenvolvendo mais conhecimento com Livewire 2 e 3 [`Repositório`](https://github.com/RafaelBlum/livewire-laravel) 
-  - iniciando com VUE
+  - Desenvolvendo com componentes usando Livewire 3.0 
+  - Desenvolvimento com Filament
   
   **Controle de versão com Git e GitHub** <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="20">
   - Config Git, commits, log, reflog, add, status, push
@@ -40,6 +40,8 @@
   - **Buscando a cada dia aprender mais de forma correta.**
 
 **Desenvolvendo maior conhecimento em Front-End**
+  - TailwindCSS
+  - FlowBite
   - Bootstrap 4
   - Html
   - CSS.
