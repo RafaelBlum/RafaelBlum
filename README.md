@@ -22,16 +22,16 @@
   - Factories
   - CRUD e configurações basicas
   - Testes com PHPunit e PEST
-  - Desenvolvendo com componentes usando Livewire 3.0 
-  - Desenvolvimento com Filament
+  - Desenvolvendo com componentes usando `Livewire 3.0`
+  - Desenvolvimento com `Filament`
   
-  **Controle de versão com Git e GitHub** <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="20">
+  **Controle de versão com `Git e GitHub`** <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="20">
   - Config Git, commits, log, reflog, add, status, push
   - Config Github, repositor, ssh key
   - branch, checkout branchs, pull, merge
   - projetinho descritivo [`demo git e github`](https://github.com/RafaelBlum/demo-git-github)
   
-**Desenvolvendo maior conhecimento com Javascript e JQuery**
+**Desenvolvendo maior conhecimento com `Javascript e JQuery`**
   - variables, const, functions, operators, strings, arrays, if else, more...
   - Objects
   - Functions, class
@@ -39,8 +39,8 @@
   - Ajax
   - **Buscando a cada dia aprender mais de forma correta.**
 
-**Desenvolvendo maior conhecimento em Front-End**
-  - TailwindCSS
+**Desenvolvendo maior conhecimento em `Front-End`**
+  - `TailwindCSS`
   - FlowBite
   - Bootstrap 4
   - Html
