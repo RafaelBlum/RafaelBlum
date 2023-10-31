@@ -13,23 +13,23 @@
 
 
   **Framework `Laravel`**
-  - View blade
-  - routes
-  - Controllers
-  - Models
-  - Configurações de banco mysql/ENV
-  - Seeders
-  - Factories
-  - CRUD e configurações basicas
-  - Testes com PHPunit e PEST
-  - Desenvolvendo com componentes usando `Livewire 3.0`
-  - Desenvolvimento com `Filament`
+  - 🔓 View blade
+  - 🔓 routes
+  - 🔓 Controllers
+  - 🔓 Models
+  - 🔓 Configurações de banco mysql/ENV
+  - 🔓 Seeders
+  - 🔓 Factories
+  - 🔓 CRUD e configurações basicas
+  - 🔓 Testes com PHPunit e PEST
+  - 🔓 Desenvolvendo com componentes usando `Livewire 3.0`
+  - 🔓 Desenvolvimento com `Filament`
   
   **Controle de versão com `Git e GitHub`** <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="20">
-  - Config Git, commits, log, reflog, add, status, push
-  - Config Github, repositor, ssh key
-  - branch, checkout branchs, pull, merge
-  - projetinho descritivo [`demo git e github`](https://github.com/RafaelBlum/demo-git-github)
+  - 🔓 Config Git, commits, log, reflog, add, status, push
+  - 🔓 Config Github, repositor, ssh key
+  - 🔓 branch, checkout branchs, pull, merge
+  - 🔓 projetinho descritivo [`demo git e github`](https://github.com/RafaelBlum/demo-git-github)
   
 **Desenvolvendo maior conhecimento com `Javascript e JQuery`**
   - variables, const, functions, operators, strings, arrays, if else, more...
