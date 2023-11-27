@@ -49,7 +49,7 @@
 <br/>
 
 
-### Qualificações
+### :star: Qualificações
 
 - [ Em andamento ] Cursando tecnologia em `Análise e Desenvolvimento de Sistemas`, **UNINTER**.
 
@@ -59,9 +59,9 @@
 
 <br/>
 
-### PortFolio :: Sistemas desenvolvidos ou em desenvolvimento
+### :rocket: PortFolios :: Sistemas desenvolvidos ou em desenvolvimento
 
-`Intranet corporativa e social CORPORATIX` [Finalizado v.1] - Acesse: [`Corporatix.online`](https://www.corporatix.online/).
+`Intranet corporativa e social CORPORATIX` [Finalizado v.1] - Acesse: [`Corporatix.online`](https://www.corporatix.online/) - `Em construção`.
 > Um sistema de intranet de acesso interno para empresas que querem maior informação e comunicação interna.
 > **Assista a demo** no link 👇🏼 [here](https://www.youtube.com/watch?v=R8SYSqY7nAM&t=39s&ab_channel=universocode).
 > Sistema na versão 2.0 em andamento utilizando a ultima versão do Laravel e php e atualização de componentes.
@@ -72,7 +72,7 @@
 > Com um site responsivo e intuitivo para empresas que querem mostrar seus produtos e serviços e um blog interno.
 > O objetivo deste projeto é a criação de um `sistema gerenciável` de um `menu demonstrativo` de produtos ou serviços de forma informal, servido como um catalogo e também com aopção de criar postagens para seus clientes, como informções ou detalhes sobre seus produtos e serviços.
 
-`Blog Laravel` [em desenvolvimento] - acesse: [`bloglaravel.online`](http://bloglaravel.online/). 
+`Blog Laravel` [em desenvolvimento] - acesse: [`bloglaravel.online`](http://bloglaravel.online/) - `Em construção`. 
 > Objetivo deste projeto e a utilização de novos componentes do laravel para melhorar mais o back-end, trazendo agilidade, ideias atuais, e tudo que o framework tem a oferecer.
 - `Repositório, acesse`: [`Blog Laravel`](https://github.com/RafaelBlum/Blog-crud-cms) 
 
@@ -93,7 +93,6 @@ Contatos 👇🏼 [rafaelblum_digital@hotmail.com]
 [![Twitter: universoCode](https://img.shields.io/twitter/follow/universoCode?style=social)](https://twitter.com/universoCode)
 [![Linkedin: RafaelBlum](https://img.shields.io/badge/-RafaelBlum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-b-237133114/)](https://www.linkedin.com/in/rafael-b-237133114/)
 [![Linkedin: RafaelBlum](https://img.shields.io/badge/-RafaelBlum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-b-237133114/)](https://www.linkedin.com/in/rafael-blum-378656285/)
->>>>>>> cc77353463bb5d6562a2d088a5cd03afee1be69f
 [![GitHub RafaelBlum](https://img.shields.io/github/followers/RafaelBlum?label=follow&style=social)](https://github.com/RafaelBlum)
 
 <br/>
