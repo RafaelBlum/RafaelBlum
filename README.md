@@ -16,6 +16,8 @@
 
 ### 🛠️ Minhas Stacks
 
+Estou sempre em busca de novas tecnologias, curioso e determinado a aprender e sair da zona de conforto.
+
 #### 💾 Back-end
 - **PHP** — Programação Orientada a Objetos, PDO, manipulação e tratamento de dados, segurança e boas práticas.
 - **Laravel** — Criação de APIs, Blade Templates, Eloquent ORM, Seeders, Factories, Migrations, Rotas, Controllers e Testes automatizados com **PEST** e **PHPUnit**.
