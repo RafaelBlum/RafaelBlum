@@ -61,7 +61,11 @@
 <br/>
 
 
+<<<<<<< HEAD
 ### 🎓 Formação
+=======
+### :star: Qualificações
+>>>>>>> f45106652e8a5520d1ccdecf2a50619218586834
 
 - 📘 [ Em andamento ] Cursando tecnologia em `Análise e Desenvolvimento de Sistemas`, **UNINTER**.
 
@@ -71,9 +75,18 @@
 
 <br/>
 
+<<<<<<< HEAD
 ### 🚀 Projetos em Destaque
 
 #### [🧭 CMS Intranet corporativa e social ](https://github.com/RafaelBlum/intranet-colaborativa)
+=======
+### :rocket: PortFolios :: Sistemas desenvolvidos ou em desenvolvimento
+
+`Intranet corporativa e social CORPORATIX` [Finalizado v.1] - Acesse: [`Corporatix.online`](https://www.corporatix.online/) - `Em construção`.
+> Um sistema de intranet de acesso interno para empresas que querem maior informação e comunicação interna.
+> **Assista a demo** no link 👇🏼 [here](https://www.youtube.com/watch?v=R8SYSqY7nAM&t=39s&ab_channel=universocode).
+> Sistema na versão 2.0 em andamento utilizando a ultima versão do Laravel e php e atualização de componentes.
+>>>>>>> f45106652e8a5520d1ccdecf2a50619218586834
 
 ![CORPORATIX versã0 1.0](https://img.shields.io/badge/CORPORATIX_version-1.0-007ACC?logo=visualstudiocode&logoColor=white)
 > Sistema interno corporativo para comunicação e gestão de equipes.  
@@ -91,8 +104,14 @@ Reestruturação completa em **Laravel 12** com **Filament 4**, **Livewire 3** e
 > Com um site responsivo e intuitivo para empresas que querem mostrar seus produtos e serviços e um blog interno.
 > O objetivo deste projeto é a criação de um `sistema gerenciável` de um `menu demonstrativo` de produtos ou serviços de forma informal, servido como um catalogo e também com a opção de criar postagens para seus clientes, como informções ou detalhes sobre seus produtos e serviços.
 
+<<<<<<< HEAD
 🔄 **Versão 3.0 (Em breve):**  
 Reestruturação completa e agora utilizando a TALL stack e Filament php v4, aplicando novas tecnologias, idéias, dashboards administrativos, APIs de pagamento e muito mais.
+=======
+`Blog Laravel` [em desenvolvimento] - acesse: [`bloglaravel.online`](http://bloglaravel.online/) - `Em construção`. 
+> Objetivo deste projeto e a utilização de novos componentes do laravel para melhorar mais o back-end, trazendo agilidade, ideias atuais, e tudo que o framework tem a oferecer.
+- `Repositório, acesse`: [`Blog Laravel`](https://github.com/RafaelBlum/Blog-crud-cms) 
+>>>>>>> f45106652e8a5520d1ccdecf2a50619218586834
 
 ---
 
@@ -112,9 +131,25 @@ Reestruturação completa e agora utilizando a TALL stack e Filament php v4, apl
 
 <br/>
 
+<<<<<<< HEAD
 ### 📫 Contato
 📧 **rafaelblum_digital@hotmail.com**  
 🌐 [LinkedIn](https://www.linkedin.com/in/rafael-blum-378656285/) | [Instagram](https://www.instagram.com/rafablum_/) | [YouTube](https://www.youtube.com/channel/UCMvtn8HZ12Ud-sdkY5KzTog) | [Twitter](https://twitter.com/universoCode)
+=======
+### Contatos
+
+Contatos 👇🏼 [rafaelblum_digital@hotmail.com]
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMvtn8HZ12Ud-sdkY5KzTog)](https://www.youtube.com/channel/UCMvtn8HZ12Ud-sdkY5KzTog)
+[![Instagram Badge](https://img.shields.io/badge/-rafablum_-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafablum_/)](https://www.instagram.com/rafablum_/)
+[![Twitter: universoCode](https://img.shields.io/twitter/follow/universoCode?style=social)](https://twitter.com/universoCode)
+[![Linkedin: RafaelBlum](https://img.shields.io/badge/-RafaelBlum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-b-237133114/)](https://www.linkedin.com/in/rafael-b-237133114/)
+[![GitHub RafaelBlum](https://img.shields.io/github/followers/RafaelBlum?label=follow&style=social)](https://github.com/RafaelBlum)
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Adoro me conectar com pessoas diferentes,</b> então se você quiser dizer <b>oi, ficarei feliz em conhecê-lo mais!</b> :)</em>
+>>>>>>> f45106652e8a5520d1ccdecf2a50619218586834
 
 
 <p align="center">
