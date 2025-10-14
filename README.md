@@ -24,9 +24,9 @@
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/FilamentPHP-2E5BFF?logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-3-4E56A6?logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/FilamentPHP-4-2E5BFF?logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 
 #### 🎨 Front-end
@@ -35,7 +35,7 @@
 - **JavaScript (ES6)** — Estrutura semântica e comportamento dinâmico no front-end.
 
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-06B6D4?logo=tailwindcss&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpine.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
