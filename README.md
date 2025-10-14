@@ -17,9 +17,9 @@
 ### 🛠️ Minhas Stacks
 
 #### 💾 Back-end
-- **PHP 8.x** — Programação Orientada a Objetos, PDO, manipulação e tratamento de dados, segurança e boas práticas.
-- **Laravel Framework** — Criação de APIs, Blade Templates, Eloquent ORM, Seeders, Factories, Migrations, Rotas, Controllers e Testes automatizados com **PEST** e **PHPUnit**.
-- **Livewire 3 & FilamentPHP 3** — Desenvolvimento de componentes dinâmicos e interfaces administrativas modernas com alta produtividade.
+- **PHP** — Programação Orientada a Objetos, PDO, manipulação e tratamento de dados, segurança e boas práticas.
+- **Laravel** — Criação de APIs, Blade Templates, Eloquent ORM, Seeders, Factories, Migrations, Rotas, Controllers e Testes automatizados com **PEST** e **PHPUnit**.
+- **Livewire e FilamentPhp** — Desenvolvimento de componentes dinâmicos e interfaces administrativas modernas com alta produtividade.
 - **Banco de Dados MySQL** — Modelagem relacional, otimização de queries, migrations e integração com o Laravel.
 
 
@@ -32,16 +32,13 @@
 #### 🎨 Front-end
 - **Tailwind CSS** — Estilização moderna e responsiva seguindo design system eficiente.
 - **Alpine.js e Livewire** — Interatividade reativa no front sem precisar sair do PHP.
-- **Flowbite e Bootstrap** — Componentes pré-prontos e integrações ágeis para dashboards e painéis.
-- **HTML5, CSS3 e JavaScript (ES6)** — Estrutura semântica e comportamento dinâmico no front-end.
-- **jQuery** — Manipulação de DOM e requisições Ajax em projetos legados.
+- **JavaScript (ES6)** — Estrutura semântica e comportamento dinâmico no front-end.
 
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpine.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 
 
 #### ⚙️ Ferramentas
